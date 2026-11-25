@@ -1,0 +1,35 @@
+# ============================================================
+# FortivexAI Sales Agent - Tested & Pinned Requirements
+# Tested on Windows 11 with Python 3.13.3 (compatible with Python 3.11+)
+# ============================================================
+
+# --- Core Frontend ---
+streamlit==1.51.0
+
+# --- AI / LLM (Current Google Gen AI SDK) ---
+google-genai==3.6.1
+
+# --- Speech Recognition (Local CPU) ---
+faster-whisper==1.2.1
+
+# --- Text-to-Speech ---
+edge-tts==7.3.1
+
+# --- Vector Database & Embeddings (RAG) ---
+chromadb==1.5.9
+sentence-transformers==5.4.1
+
+# --- Data Processing & Validation ---
+pandas==2.3.3
+numpy==2.2.4
+pydantic==2.14.4
+
+# --- Configuration ---
+python-dotenv==1.2.2
+
+# --- Testing ---
+pytest==8.4.2
+
+# --- Networking ---
+httpx==0.28.1
+aiohttp==3.14.5

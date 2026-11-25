@@ -1,0 +1,6 @@
+customer_id,name,phone,email,budget_inr,preferred_location,property_type,bedrooms,timeline,notes,lead_status
+C001,Rajesh Kumar,+91-98100-11111,rajesh.kumar@example.com,5000000,Phagwara,Apartment,2,3 months,Interested in Ready to Move properties. Has home loan pre-approval.,warm
+C002,Priya Sharma,+91-98200-22222,priya.sharma@example.com,15000000,Ludhiana,Villa,3,2 months,Looking for villa with ground-floor master suite for family with elderly parents.,qualified
+C003,Amit Verma,+91-98300-33333,amit.verma@example.com,18000000,Jalandhar,Villa,4,1 month,Looking for luxury 4BHK villa with private pool in Model Town.,qualified
+C004,Sunita Devi,+91-98400-44444,sunita.devi@example.com,2500000,Phagwara,Apartment,1,Flexible,Budget-conscious first-time buyer. Needs home loan guidance.,hot
+C005,Gurpreet Singh,+91-98500-55555,gurpreet.singh@example.com,6500000,Phagwara,Apartment,3,2 months,NRI buyer looking for 3BHK investment apartment near LPU.,qualified

@@ -1,0 +1,228 @@
+====================================================================
+DREAMHOME REALTY - COMPANY KNOWLEDGE DOCUMENT
+[FICTIONAL DEMONSTRATION DATA - For FortivexAI Challenge Only]
+====================================================================
+
+IMPORTANT NOTICE: All properties, prices, people, and details in
+this document are fictional and created solely for demonstration
+purposes. No legal guarantees, statutory approvals, or financial
+guarantees are made or implied.
+
+====================================================================
+SECTION 1: COMPANY INTRODUCTION
+====================================================================
+
+About DreamHome Realty:
+DreamHome Realty is a fictional residential real estate consultancy
+based in Punjab, India. Our tagline is "Your Dream Home, Our Promise."
+
+We help customers explore residential properties across Phagwara,
+Jalandhar, Ludhiana, Nawanshahr, and Adampur in Punjab.
+
+Our Services:
+- Residential property discovery and consultation
+- Guided property site visits and tours
+- Home loan coordination and documentation checklists
+- Residential investment comparisons
+- Step-by-step purchase coordination
+
+Cities Covered: Phagwara, Jalandhar, Ludhiana, Nawanshahr, Adampur
+Total Listed Fictional Properties: 24 residential properties
+
+====================================================================
+SECTION 2: PROPERTY PORTFOLIO & PRICES OVERVIEW
+====================================================================
+
+We currently list fictional properties across three categories:
+
+APARTMENTS:
+- 1 BHK: Rs. 19 lakh (Haibowal Kalan, Ludhiana) to Rs. 22 lakh (Lotus Heights, Phagwara)
+- 2 BHK: Rs. 35 lakh (Kapurthala Road Residency, Phagwara) to Rs. 62 lakh (Jalandhar Heights Tower A, Jalandhar)
+- 3 BHK: Rs. 41 lakh (Nawanshahr Township, Nawanshahr) to Rs. 98 lakh (Sarabha Nagar Premium, Ludhiana)
+
+INDEPENDENT HOUSES:
+- 3 BHK: Rs. 1.05 crore (GT Road Heritage House, Jalandhar)
+- 4 BHK: Rs. 82 lakh (Adampur Enclave, Adampur) to Rs. 95 lakh (Royal Enclave, Phagwara)
+
+VILLAS:
+- 3 BHK: Rs. 1.12 crore (Phagwara Meadow Villa, Phagwara) to Rs. 1.45 crore (BRS Nagar Signature Villa, Ludhiana)
+- 4 BHK: Rs. 1.80 crore (Model Town Luxury Villa, Jalandhar)
+
+HIGHLIGHTED LISTINGS:
+1. Sunrise Apartments, Phagwara
+   - 2 BHK at Rs. 45 lakh (950 sqft) | 3 BHK at Rs. 65 lakh (1350 sqft)
+   - Ready to Move | Semi-Furnished
+   - Amenities: Lift, Power Backup, Parking, Security, Gym (3BHK adds Clubhouse)
+
+2. LPU Road Premium, Phagwara
+   - 2 BHK at Rs. 40 lakh (920 sqft) | Ready to Move | Semi-Furnished
+   - Amenities: Lift, Security, Parking, Gym, Study Room
+
+3. Green Valley Homes, Phagwara
+   - 2 BHK at Rs. 38 lakh (870 sqft) | 3 BHK at Rs. 52 lakh (1200 sqft)
+   - Under Construction | Expected Possession: June 2027
+
+4. Shivalik Residency, Jalandhar
+   - 3 BHK at Rs. 75 lakh (1450 sqft) | Ready to Move | Semi-Furnished
+   - Amenities: Swimming Pool, Gym, Clubhouse, 24/7 Security, Power Backup
+
+5. Model Town Luxury Villa, Jalandhar
+   - 4 BHK Villa at Rs. 1.80 crore (3500 sqft) | Ready to Move | Fully Furnished
+   - Amenities: Private Pool, Landscaped Garden, Double Garage, Home Theatre, Smart Home
+
+6. Sarabha Nagar Premium, Ludhiana
+   - 3 BHK at Rs. 98 lakh (1750 sqft) | Ready to Move | Fully Furnished
+   - Amenities: Gym, Swimming Pool, Clubhouse, Concierge, Valet Parking
+
+7. BRS Nagar Signature Villa, Ludhiana
+   - 3 BHK Villa at Rs. 1.45 crore (2800 sqft) | Ready to Move | Semi-Furnished
+   - Amenities: Private Garden, Garage, Solar Power, RO Water System
+
+====================================================================
+SECTION 3: AMENITIES BY PROPERTY TIER
+====================================================================
+
+STANDARD AMENITIES:
+- 24/7 Security / Gated Entry
+- Dedicated Car Parking
+- Water Supply / Storage
+- Power Backup / Inverter Support
+
+MID-RANGE / PREMIUM AMENITIES:
+- Gymnasium and Fitness Center
+- Lift / Elevator
+- Clubhouse and Community Hall
+- Landscaped Garden / Park and Kids Play Area
+
+LUXURY / VILLA AMENITIES:
+- Swimming Pool or Private Pool
+- Smart Home Controls
+- Concierge & Valet Support (select towers)
+- Private Lawn, Home Theatre, Solar Power
+
+====================================================================
+SECTION 4: BOOKING AND VIEWING PROCEDURES
+====================================================================
+
+HOW TO SCHEDULE A PROPERTY VISIT:
+1. Request a visit with our AI sales assistant or support line.
+2. Select the property or shortlist of properties you wish to inspect.
+3. Choose an available date and time slot during business hours.
+4. Confirm your booking to receive a confirmation code (e.g., DH-XXXXXX).
+5. A DreamHome Realty consultant meets you at the property for a 60-minute tour.
+6. Site visits carry zero obligation or visit fee.
+
+PROPERTY VISIT TIMINGS (Asia/Kolkata):
+- Monday to Saturday: 9:00 AM to 6:00 PM
+- Sunday: Closed for regular walk-ins (special arrangements only)
+- Minimum advance notice: 2 hours before the requested slot
+
+GENERAL PURCHASE STEPS (ILLUSTRATIVE):
+1. Shortlist property and complete site visit
+2. Submit an Expression of Interest (EOI)
+3. Pay an initial booking token as agreed in writing
+4. Review and sign the sale agreement
+5. Arrange home loan (if applicable) and complete registration
+
+COMMON DOCUMENTATION CHECKLIST:
+- Government-issued ID proof (Aadhaar / PAN / Passport)
+- Current address proof
+- Income proof (salary slips / ITR if applying for a home loan)
+- Recent bank statements
+
+====================================================================
+SECTION 5: PAYMENT OPTIONS
+====================================================================
+
+ILLUSTRATIVE PAYMENT MODES:
+- Bank transfer / RTGS / NEFT
+- Home loan financing through partner banks
+- Milestone-linked schedules for under-construction units
+
+ILLUSTRATIVE BANK OPTIONS (NO LOAN APPROVAL GUARANTEE):
+- State Bank of India, HDFC Bank, ICICI Bank, Axis Bank, Punjab National Bank
+- Typical residential home loan terms vary by applicant eligibility,
+  credit profile, and prevailing bank interest rates. Customers must
+  confirm exact rates, fees, and eligibility directly with the lender.
+
+====================================================================
+SECTION 6: OFFICE HOURS AND APPOINTMENT POLICIES
+====================================================================
+
+FICTIONAL OFFICE ADDRESS:
+DreamHome Realty, SCO 45, Main Market, Phagwara, Punjab 144401
+
+CONTACT CHANNELS (FICTIONAL):
+- Toll-Free Support: +91-18001-00000
+- General Email: info@dreamhomerealty.example
+- Escalations: manager@dreamhomerealty.example
+
+OFFICE & APPOINTMENT HOURS (IST / Asia/Kolkata):
+- Monday to Saturday: 9:00 AM to 6:00 PM
+- Sunday: Closed
+- Standard appointment duration: 60 minutes
+
+APPOINTMENT RULES:
+- Appointments must be booked at least 2 hours in advance.
+- Double booking of the same time slot is blocked automatically.
+- Rescheduling or cancellation is free with at least 2 hours notice.
+- Please arrive within 15 minutes of your scheduled time.
+
+====================================================================
+SECTION 7: FREQUENTLY ASKED QUESTIONS (FAQ)
+====================================================================
+
+Q: Are there any site visit charges?
+A: No. Guided property site visits arranged through DreamHome Realty are free.
+
+Q: Does DreamHome Realty provide legal or financial guarantees?
+A: No. DreamHome Realty provides consultation and coordination only.
+   Customers should independently verify all property titles, statutory
+   registrations, tax liabilities, and bank loan terms with qualified
+   legal and financial advisors before making any payment.
+
+Q: What is the possession timeline for under-construction properties?
+A: In this demonstration portfolio, Green Valley Homes (Phagwara) lists
+   an expected possession of June 2027, and Nawanshahr Township lists
+   September 2027. Always verify official project schedules independently.
+
+Q: Can NRI buyers inquire about properties?
+A: Yes. NRI buyers can schedule consultations and explore properties.
+   Final transactions require compliance with applicable RBI/FEMA rules
+   and independent legal verification.
+
+Q: Is there a brokerage fee?
+A: Standard demo consultation assumes a 2% brokerage on completed sale
+   transactions, with zero fee for initial inquiries or site visits.
+
+Q: How are maintenance charges handled?
+A: Monthly society maintenance varies by building and amenities
+   (typically Rs. 1,500 to Rs. 5,000 per month in this demo dataset).
+
+====================================================================
+SECTION 8: REFUND AND CANCELLATION POLICIES
+====================================================================
+
+SITE VISIT CANCELLATION:
+- Site visit appointments may be cancelled or rescheduled at no charge.
+- Please cancel in advance via the Appointments page or support line.
+
+BOOKING CANCELLATION GUIDELINES (DEMONSTRATION ONLY):
+- Within 7 days of booking: Full refund of initial booking token (demo guideline).
+- 8 to 30 days: 50% refund of booking token.
+- After 30 days or for under-construction units: Governed strictly by
+  the signed developer/seller agreement.
+
+====================================================================
+SECTION 9: CUSTOMER SUPPORT
+====================================================================
+
+- 24/7 AI Assistant: Available through the DreamHome Realty web portal
+- Phone Support: +91-18001-00000 (Mon-Sat, 9:00 AM - 6:00 PM IST)
+- Email Support: info@dreamhomerealty.example
+- Escalations: manager@dreamhomerealty.example (48-business-hour target)
+
+====================================================================
+END OF COMPANY KNOWLEDGE DOCUMENT
+[FICTIONAL DEMONSTRATION DATA - FortivexAI Challenge]
+====================================================================

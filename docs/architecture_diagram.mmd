@@ -1,0 +1,32 @@
+flowchart TD
+    A([Customer Browser]) -->|Microphone / Audio / Text| B[Streamlit Frontend]
+    B -->|Audio bytes| C[Faster-Whisper STT]
+    C -->|Recognized text + lang| D[AI Conversation Engine]
+    B -->|Text fallback| D
+    D -->|Semantic query| E[RAG Service]
+    E -->|Vector search| F[(ChromaDB Vector Store)]
+    F -->|Top-K docs + sources| E
+    E -->|Retrieved context| D
+    D -->|Prompt + RAG + schema| G[Google Gemini API]
+    G -->|Response + structured JSON| D
+    D -->|No API key / error fallback| H[Demo Mode Engine]
+    H -->|Deterministic response| D
+    D -->|Response text| I[Edge TTS]
+    I -->|MP3 audio| B
+    B -->|Audio playback + sources| A
+    D -->|Extracted CustomerProfile| J[Lead Qualification Engine]
+    J -->|0-100 Score + Status| K[CRM Service]
+    K -->|Parameterized SQL CRUD| L[(SQLite CRM Database)]
+    D -->|Slot check & booking| M[Appointment Service]
+    M -->|Double-book check & save| L
+    D -->|End of call| N[Summary Service]
+    N -->|Structured Call Summary| L
+    L -->|Live metrics| O[Business Dashboard & Insights]
+    O -->|KPIs + Conversion Charts| B
+
+    style A fill:#4a90d9,color:#fff
+    style B fill:#1e3a5f,color:#fff
+    style G fill:#4285f4,color:#fff
+    style F fill:#9b59b6,color:#fff
+    style L fill:#27ae60,color:#fff
+    style H fill:#f39c12,color:#fff
